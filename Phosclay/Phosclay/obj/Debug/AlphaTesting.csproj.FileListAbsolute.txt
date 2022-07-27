@@ -1,0 +1,1162 @@
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe.config
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.pdb
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\bin\Debug\Guna.UI2.dll
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Dashboard.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Properties.Resources.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.GenerateResource.cache
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CoreCompileInputs.cache
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CopyComplete
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.exe
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.pdb
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.AssemblyReference.cache
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administrator.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.SalesReport.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Point_of_Sale.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Checkout.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Customer_Info.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.InventoryManagement.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Transaction_History.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Phosclay.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Fragranza.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.SystemLogs.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Login.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Information.AquaDG.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.OTP.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.DGLB.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Drakkar.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Ferrari.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.AddProduct.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.UpdateProduct.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ViewProducts.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddRawMaterials.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ViewRawMaterials.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductsReport.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.UpdateRawMaterials.resources
+C:\Users\RAFFYPC\source\repos\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.RawMaterialsReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.AssemblyReference.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administrator.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.SystemLogs.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.AddProduct.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductsReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.RawMaterialsReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ProductList.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.UpdateProduct.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ViewProducts.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ViewRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Login.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Information.AquaDG.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Dashboard.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.InventoryManagement.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.OTP.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Point_of_Sale.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Checkout.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Customer_Info.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Transaction_History.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Phosclay.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Fragranza.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.DGLB.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Drakkar.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Ferrari.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.SalesReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Properties.Resources.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.UpdateRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.GenerateResource.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CoreCompileInputs.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.exe
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.pdb
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe.config
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.pdb
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\Josh Edit\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CopyComplete
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csprojAssemblyReference.cache
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administrator.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.SystemLogs.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.AddProduct.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddRawMaterials.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductsReport.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.RawMaterialsReport.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ProductList.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.UpdateProduct.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ViewProducts.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ViewRawMaterials.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Login.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Information.AquaDG.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Dashboard.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.InventoryManagement.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.OTP.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Point_of_Sale.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Checkout.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Customer_Info.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Transaction_History.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Phosclay.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Fragranza.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.DGLB.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Drakkar.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Ferrari.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.SalesReport.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Properties.Resources.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.UpdateRawMaterials.resources
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.GenerateResource.cache
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CoreCompileInputs.cache
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.exe
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.pdb
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe.config
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.pdb
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\bin\Debug\MySql.Data.DLL
+C:\Users\sev\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CopyComplete
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe.config
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.pdb
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\bin\Debug\MySql.Data.DLL
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.AddAccount.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.UpdateAccount.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.ManageAccount.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administrator.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.SystemLogs.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.AddProduct.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddRawMaterials.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductsReport.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.RawMaterialsReport.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ProductList.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.UpdateProduct.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ViewProducts.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ViewRawMaterials.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Login.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Information.AquaDG.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Dashboard.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.InventoryManagement.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.OTP.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Point_of_Sale.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Checkout.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Customer_Info.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Transaction_History.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Phosclay.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Fragranza.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.DGLB.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Drakkar.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Ferrari.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.SalesReport.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Properties.Resources.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.UpdateRawMaterials.resources
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.GenerateResource.cache
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CoreCompileInputs.cache
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CopyComplete
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.exe
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.pdb
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\bin\Debug\Guna.UI.dll
+D:\One Drive\OneDrive\Documents\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.AssemblyReference.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe.config
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.pdb
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\bin\Debug\MySql.Data.DLL
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.AssemblyReference.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administrator.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.SystemLogs.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.AddProduct.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductsReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.RawMaterialsReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ProductList.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.UpdateProduct.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ViewProducts.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ViewRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Login.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Information.AquaDG.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Dashboard.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.InventoryManagement.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.OTP.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Point_of_Sale.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Checkout.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Customer_Info.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Transaction_History.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Phosclay.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Fragranza.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.DGLB.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Drakkar.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Ferrari.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.SalesReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Properties.Resources.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.UpdateRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.GenerateResource.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CoreCompileInputs.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CopyComplete
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.exe
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.pdb
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Quantity.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe.config
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.pdb
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\bin\Debug\MySql.Data.DLL
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.AssemblyReference.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administrator.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.SystemLogs.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.AddProduct.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductsReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.RawMaterialsReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ProductList.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.UpdateProduct.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ViewProducts.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ViewRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Login.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Information.AquaDG.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Dashboard.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.InventoryManagement.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.OTP.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Point_of_Sale.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Checkout.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Customer_Info.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Transaction_History.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Phosclay.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Fragranza.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.DGLB.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Drakkar.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Ferrari.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.SalesReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Properties.Resources.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.UpdateRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.GenerateResource.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CoreCompileInputs.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CopyComplete
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.exe
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.pdb
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Transaction_History_Records.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe.config
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.pdb
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\MySql.Data.DLL
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.AssemblyReference.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administrator.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.SystemLogs.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.AddProduct.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductsReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.RawMaterialsReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ProductList.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.UpdateProduct.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ViewProducts.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ViewRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Login.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Transaction_History_Records.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Information.AquaDG.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Dashboard.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.InventoryManagement.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.OTP.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Point_of_Sale.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Checkout.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Customer_Info.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Transaction_History.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Phosclay.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Fragranza.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.DGLB.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Drakkar.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Ferrari.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.SalesReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Properties.Resources.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.UpdateRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.GenerateResource.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CoreCompileInputs.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CopyComplete
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.exe
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.pdb
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintProducts.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\MessageBird.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Void_Transaction.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Overview.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe.config
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.pdb
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\MessageBird.dll
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\MySql.Data.DLL
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.AssemblyReference.cache
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administrator.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.SystemLogs.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.AddProduct.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddRawMaterials.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductsReport.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.RawMaterialsReport.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintProducts.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ProductList.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.UpdateProduct.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ViewProducts.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ViewRawMaterials.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Login.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Overview.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Transaction_History_Records.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Void_Transaction.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Information.AquaDG.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Dashboard.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.InventoryManagement.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.OTP.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Point_of_Sale.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Checkout.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Customer_Info.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Transaction_History.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Phosclay.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Fragranza.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.DGLB.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Drakkar.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Ferrari.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.SalesReport.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Properties.Resources.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.UpdateRawMaterials.resources
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.GenerateResource.cache
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CoreCompileInputs.cache
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CopyComplete
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.exe
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.pdb
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Google.Protobuf.dll
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Zstandard.Net.dll
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\System.Memory.dll
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\System.Buffers.dll
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\havangaz\Desktop\08-26-2021\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\MySql.Data.xml
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe.config
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.pdb
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\MessageBird.dll
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\MySql.Data.dll
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Newtonsoft.Json.dll
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Google.Protobuf.dll
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Zstandard.Net.dll
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\BouncyCastle.Crypto.dll
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Ubiety.Dns.Core.dll
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\System.Memory.dll
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\System.Buffers.dll
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\K4os.Compression.LZ4.dll
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\K4os.Hash.xxHash.dll
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\System.Numerics.Vectors.dll
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\MySql.Data.xml
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Newtonsoft.Json.xml
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.AddAccount.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.UpdateAccount.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.ManageAccount.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administrator.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.SystemLogs.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.AddProduct.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddRawMaterials.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductsReport.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.RawMaterialsReport.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintProducts.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ProductList.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.UpdateProduct.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ViewProducts.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ViewRawMaterials.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Login.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Overview.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Transaction_History_Records.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Void_Transaction.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Information.AquaDG.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Dashboard.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.InventoryManagement.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.OTP.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Point_of_Sale.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Checkout.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Customer_Info.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Transaction_History.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Phosclay.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Fragranza.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.DGLB.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Drakkar.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Ferrari.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.SalesReport.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Properties.Resources.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.UpdateRawMaterials.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.GenerateResource.cache
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CopyComplete
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.exe
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.pdb
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintMaterial.resources
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Bunifu_UI_v1.52.dll
+E:\OneDrive\Documents\OneDrive\Documents\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.AssemblyReference.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe.config
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.pdb
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\MessageBird.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Google.Protobuf.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Zstandard.Net.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\System.Memory.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\System.Buffers.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\MySql.Data.xml
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.AssemblyReference.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administrator.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.SystemLogs.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.AddProduct.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductsReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.RawMaterialsReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintMaterial.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintProducts.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ProductList.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.UpdateProduct.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ViewProducts.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ViewRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Login.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Overview.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Transaction_History_Records.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Void_Transaction.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Information.AquaDG.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Dashboard.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.InventoryManagement.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Point_of_Sale.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Checkout.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Customer_Info.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Transaction_History.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Phosclay.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Fragranza.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.DGLB.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Drakkar.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Ferrari.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.SalesReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Properties.Resources.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.UpdateRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Settings.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.GenerateResource.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CoreCompileInputs.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CopyComplete
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.exe
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.pdb
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddSettings.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Changepassword.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe.config
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.pdb
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\MessageBird.dll
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\MySql.Data.dll
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Google.Protobuf.dll
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Zstandard.Net.dll
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\System.Memory.dll
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\System.Buffers.dll
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\MySql.Data.xml
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Changepassword.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddSettings.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administrator.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.SystemLogs.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.AddProduct.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddRawMaterials.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductsReport.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.RawMaterialsReport.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintMaterial.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintProducts.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ProductList.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.UpdateProduct.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ViewProducts.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ViewRawMaterials.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Login.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Overview.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Transaction_History_Records.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Void_Transaction.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Information.AquaDG.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Dashboard.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.InventoryManagement.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Point_of_Sale.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Checkout.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Customer_Info.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Transaction_History.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Phosclay.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Fragranza.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.DGLB.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Drakkar.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Ferrari.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.SalesReport.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Properties.Resources.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.UpdateRawMaterials.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Settings.resources
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.GenerateResource.cache
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CoreCompileInputs.cache
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CopyComplete
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.exe
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.pdb
+C:\Users\havangaz\Desktop\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.AssemblyReference.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe.config
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.pdb
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\MessageBird.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Google.Protobuf.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Zstandard.Net.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\System.Memory.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\System.Buffers.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\MySql.Data.xml
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.AssemblyReference.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Changepassword.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddSettings.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administrator.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.SystemLogs.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.AddProduct.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductsReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.RawMaterialsReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintMaterial.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintProducts.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ProductList.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.UpdateProduct.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ViewProducts.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ViewRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Login.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Overview.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Transaction_History_Records.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Void_Transaction.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Information.AquaDG.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Dashboard.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.InventoryManagement.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Point_of_Sale.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Checkout.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Customer_Info.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Transaction_History.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Phosclay.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Fragranza.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.DGLB.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Drakkar.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Ferrari.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.SalesReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Properties.Resources.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.UpdateRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Settings.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.GenerateResource.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CoreCompileInputs.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CopyComplete
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.exe
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.pdb
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.AssemblyReference.cache
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.exe
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\OJT Updated September 5 2021\OJT Updated\MAINTASK\test\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.pdb
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe.config
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.pdb
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\MessageBird.dll
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Google.Protobuf.dll
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Zstandard.Net.dll
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\System.Memory.dll
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\System.Buffers.dll
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\MySql.Data.xml
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.AssemblyReference.cache
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Changepassword.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddSettings.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administrator.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.SystemLogs.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.AddProduct.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddRawMaterials.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductsReport.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.RawMaterialsReport.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintMaterial.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintProducts.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ProductList.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.UpdateProduct.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ViewProducts.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ViewRawMaterials.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Login.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Overview.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Transaction_History_Records.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Void_Transaction.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Information.AquaDG.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Dashboard.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.InventoryManagement.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Point_of_Sale.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Checkout.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Customer_Info.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Transaction_History.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Phosclay.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Fragranza.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.DGLB.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Drakkar.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Ferrari.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.SalesReport.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Properties.Resources.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.UpdateRawMaterials.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Settings.resources
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.GenerateResource.cache
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CoreCompileInputs.cache
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CopyComplete
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.exe
+C:\Users\DARREN MORCILLOS\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.pdb
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.AssemblyReference.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Changepassword.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddSettings.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administrator.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.SystemLogs.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.AddProduct.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductsReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.RawMaterialsReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintMaterial.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintProducts.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ProductList.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.UpdateProduct.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ViewProducts.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ViewRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Login.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Overview.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Transaction_History_Records.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Void_Transaction.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Information.AquaDG.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Dashboard.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.InventoryManagement.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Point_of_Sale.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Checkout.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Customer_Info.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Transaction_History.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Phosclay.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Fragranza.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.DGLB.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Drakkar.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Ferrari.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.SalesReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Properties.Resources.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.UpdateRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Settings.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.GenerateResource.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CoreCompileInputs.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.exe
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.pdb
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe.config
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.pdb
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\MessageBird.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Google.Protobuf.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Zstandard.Net.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\System.Memory.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\System.Buffers.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\MySql.Data.xml
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\UPDATED AS OF 10-12-21\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CopyComplete
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csprojAssemblyReference.cache
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Changepassword.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddSettings.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administrator.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.SystemLogs.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.AddProduct.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddRawMaterials.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductsReport.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.RawMaterialsReport.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintMaterial.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintProducts.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ProductList.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.UpdateProduct.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ViewProducts.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ViewRawMaterials.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Login.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Overview.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Transaction_History_Records.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Void_Transaction.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Information.AquaDG.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Dashboard.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.InventoryManagement.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Point_of_Sale.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Checkout.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Customer_Info.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Transaction_History.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Phosclay.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Fragranza.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.DGLB.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Drakkar.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Ferrari.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.SalesReport.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Properties.Resources.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.UpdateRawMaterials.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Settings.resources
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.GenerateResource.cache
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CoreCompileInputs.cache
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.exe
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.pdb
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe.config
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.pdb
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\MessageBird.dll
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Google.Protobuf.dll
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Zstandard.Net.dll
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\System.Memory.dll
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\System.Buffers.dll
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\MySql.Data.xml
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Carl\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CopyComplete
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe.config
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.pdb
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\MessageBird.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Google.Protobuf.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Zstandard.Net.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\System.Memory.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\System.Buffers.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\MySql.Data.xml
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.AssemblyReference.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Changepassword.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddSettings.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administrator.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.SystemLogs.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.AddProduct.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductsReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.RawMaterialsReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintMaterial.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintProducts.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ProductList.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.UpdateProduct.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ViewProducts.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ViewRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Login.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Overview.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Transaction_History_Records.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Void_Transaction.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Information.AquaDG.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Dashboard.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.InventoryManagement.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Point_of_Sale.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Checkout.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Customer_Info.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Transaction_History.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Phosclay.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Fragranza.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.DGLB.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Drakkar.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Ferrari.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.SalesReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Properties.Resources.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.UpdateRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Settings.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.GenerateResource.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CoreCompileInputs.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CopyComplete
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.exe
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.pdb
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe.config
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.pdb
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\MessageBird.dll
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Google.Protobuf.dll
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Zstandard.Net.dll
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\System.Memory.dll
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\System.Buffers.dll
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\MySql.Data.xml
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.AssemblyReference.cache
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Changepassword.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddSettings.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administrator.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.SystemLogs.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.AddProduct.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddRawMaterials.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintMaterial.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintProducts.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.UpdateProduct.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ViewProducts.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ViewRawMaterials.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Login.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Overview.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Transaction_History_Records.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Void_Transaction.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Information.AquaDG.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Dashboard.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.InventoryManagement.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Point_of_Sale.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Checkout.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Customer_Info.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Transaction_History.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Phosclay.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Fragranza.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.DGLB.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Drakkar.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Ferrari.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.SalesReport.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Properties.Resources.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.UpdateRawMaterials.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Settings.resources
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.GenerateResource.cache
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CoreCompileInputs.cache
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CopyComplete
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.exe
+C:\Users\DARREN MORCILLOS\Desktop\UPDATED\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.pdb
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.AssemblyReference.cache
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Changepassword.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddSettings.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administrator.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.SystemLogs.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.AddProduct.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.AddRawMaterials.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintMaterial.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintProducts.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.UpdateProduct.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ViewProducts.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ViewRawMaterials.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Login.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Overview.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Transaction_History_Records.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Void_Transaction.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Information.AquaDG.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Dashboard.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.InventoryManagement.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Point_of_Sale.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Checkout.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Customer_Info.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Transaction_History.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Phosclay.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Fragranza.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.DGLB.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Drakkar.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Ferrari.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.SalesReport.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Properties.Resources.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.UpdateRawMaterials.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.Settings.resources
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.GenerateResource.cache
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.csproj.CoreCompileInputs.cache
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.exe
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\obj\Debug\AlphaTesting.pdb
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe.config
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.exe
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\bin\Debug\AlphaTesting.pdb
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\bin\Debug\MessageBird.dll
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\havan\Desktop\Project\AlphaTesting\AlphaTesting\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\AlphaTesting.exe.config
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\AlphaTesting.exe
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\AlphaTesting.pdb
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\Bunifu_UI_v1.52.dll
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\MessageBird.dll
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Changepassword.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.AddSettings.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.AddAccount.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.UpdateAccount.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.ManageAccount.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administrator.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.SystemLogs.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.AddProduct.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.AddRawMaterials.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintMaterial.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintProducts.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.UpdateProduct.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ViewProducts.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.ViewRawMaterials.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Login.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Overview.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Transaction_History_Records.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Void_Transaction.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Information.AquaDG.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Dashboard.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.InventoryManagement.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Point_of_Sale.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Checkout.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Customer_Info.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Transaction_History.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Phosclay.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Fragranza.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.DGLB.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Drakkar.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Ferrari.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.SalesReport.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Properties.Resources.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.UpdateRawMaterials.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Settings.resources
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.csproj.GenerateResource.cache
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.exe
+D:\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.pdb
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\AlphaTesting.exe.config
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\AlphaTesting.exe
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\AlphaTesting.pdb
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\MessageBird.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.csproj.AssemblyReference.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Changepassword.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.AddSettings.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administrator.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.SystemLogs.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.AddProduct.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.AddRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintMaterial.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintProducts.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.UpdateProduct.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ViewProducts.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.ViewRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Login.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Overview.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Transaction_History_Records.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Void_Transaction.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Information.AquaDG.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Dashboard.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.InventoryManagement.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Point_of_Sale.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Checkout.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Customer_Info.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Transaction_History.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Phosclay.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Fragranza.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.DGLB.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Drakkar.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.ProductInfo.Ferrari.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.SalesReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Properties.Resources.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.UpdateRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Settings.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.csproj.GenerateResource.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.csproj.CoreCompileInputs.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.csproj.CopyComplete
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.exe
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\OneDrive\Documents\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.pdb
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Changepassword.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.AddSettings.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administrator.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.SystemLogs.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.AddProduct.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.AddRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintMaterial.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintProducts.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.UpdateProduct.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ViewProducts.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.ViewRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Login.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Overview.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Transaction_History_Records.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Void_Transaction.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Dashboard.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.InventoryManagement.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Point_of_Sale.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Checkout.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Customer_Info.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Transaction_History.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Phosclay.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Fragranza.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.SalesReport.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.UpdateRawMaterials.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Settings.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.csproj.GenerateResource.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.csproj.CoreCompileInputs.cache
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\MessageBird.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.csproj.CopyComplete
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Connection.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\AppInstaller.exe.config
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\AppInstaller.exe
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\AppInstaller.pdb
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\INVPOS.Properties.Resources.resources
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AppInstaller.exe
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AppInstaller.pdb
+C:\Users\RAFFYPC.DESKTOP-7F6DF7P\Desktop\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.csproj.AssemblyReference.cache
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\AppInstaller.exe.config
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\AppInstaller.exe
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\AppInstaller.pdb
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\MessageBird.dll
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.csproj.AssemblyReference.cache
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Changepassword.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Connection.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.AddSettings.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administrator.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.SystemLogs.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.AddProduct.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.AddRawMaterials.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintMaterial.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintProducts.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.UpdateProduct.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ViewProducts.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.ViewRawMaterials.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Login.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Overview.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Transaction_History_Records.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Void_Transaction.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Dashboard.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.InventoryManagement.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Point_of_Sale.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Checkout.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Customer_Info.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Transaction_History.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Phosclay.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Fragranza.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.SalesReport.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\INVPOS.Properties.Resources.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.UpdateRawMaterials.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Settings.resources
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.csproj.GenerateResource.cache
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.csproj.CoreCompileInputs.cache
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AppInstaller.exe
+C:\Users\havan\Desktop\AlphaTesting(11-29-2021)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AppInstaller.pdb
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\AppInstaller.exe.config
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\AppInstaller.exe
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\AppInstaller.pdb
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\Bunifu_UI_v1.52.dll
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\MessageBird.dll
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Changepassword.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Connection.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.AddSettings.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.AddAccount.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.UpdateAccount.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.AccountManagement.ManageAccount.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administrator.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Administration_Related.SystemLogs.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.AddProduct.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.AddRawMaterials.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintMaterial.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.PrintProducts.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.UpdateProduct.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Inventory_Related.ViewProducts.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.ViewRawMaterials.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Login.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Overview.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Transaction_History_Records.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Void_Transaction.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Dashboard.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.InventoryManagement.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Point_of_Sale.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Checkout.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Related.Pos_Customer_Info.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Transaction_History.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Phosclay.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Pos_Receipt_Fragranza.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.SalesReport.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\INVPOS.Properties.Resources.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.UpdateRawMaterials.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.Settings.resources
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.csproj.GenerateResource.cache
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AppInstaller.exe
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AppInstaller.pdb
+D:\OneDrive\Documents\Phosclay (OJT)\AlphaTesting(11-4-2021)\AlphaTesting\obj\Debug\AlphaTesting.csproj.AssemblyReference.cache

@@ -1,0 +1,385 @@
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.csproj.AssemblyReference.cache
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Changepassword.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Connection.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.AddSettings.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Administrator.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Administration_Related.SystemLogs.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Inventory_Related.AddProduct.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.AddRawMaterials.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Inventory_Related.PrintMaterial.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Inventory_Related.PrintProducts.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Inventory_Related.UpdateProduct.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Inventory_Related.ViewProducts.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.ViewRawMaterials.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Login.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Overview.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Pos_Related.Pos_Transaction_History_Records.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Pos_Related.Pos_Void_Transaction.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Dashboard.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.InventoryManagement.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Point_of_Sale.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Pos_Checkout.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Pos_Related.Pos_Customer_Info.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Pos_Transaction_History.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Pos_Receipt_Phosclay.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Pos_Receipt_Fragranza.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.SalesReport.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Properties.Resources.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.UpdateRawMaterials.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.Settings.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.csproj.GenerateResource.cache
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\AlphaTesting\obj\Debug\Phosclay.csproj.CoreCompileInputs.cache
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Changepassword.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Connection.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.AddSettings.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Administrator.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.SystemLogs.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.AddProduct.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.AddRawMaterials.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.PrintMaterial.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.PrintProducts.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.UpdateProduct.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.ViewProducts.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.ViewRawMaterials.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Login.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Overview.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.Pos_Transaction_History_Records.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.Pos_Void_Transaction.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Dashboard.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.InventoryManagement.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Point_of_Sale.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Checkout.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.Pos_Customer_Info.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Transaction_History.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Receipt_Phosclay.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Receipt_Fragranza.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.SalesReport.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Properties.Resources.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.UpdateRawMaterials.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.Settings.resources
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.GenerateResource.cache
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.CoreCompileInputs.cache
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\bin\Debug\Phosclay.exe.config
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\bin\Debug\Phosclay.exe
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\bin\Debug\Phosclay.pdb
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\bin\Debug\MessageBird.dll
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.exe
+C:\Users\havan\Desktop\Project\Phosclay (OJT)\Phosclay\Phosclay\obj\Debug\Phosclay.pdb
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\bin\Debug\Phosclay.exe.config
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\bin\Debug\Phosclay.exe
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\bin\Debug\Phosclay.pdb
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\bin\Debug\Bunifu_UI_v1.52.dll
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\bin\Debug\MessageBird.dll
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Changepassword.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Connection.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.AddSettings.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.AccountManagement.AddAccount.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.AccountManagement.UpdateAccount.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.AccountManagement.ManageAccount.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Administrator.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.SystemLogs.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.AddProduct.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.AddRawMaterials.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.PrintMaterial.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.PrintProducts.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.UpdateProduct.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.ViewProducts.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.ViewRawMaterials.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Login.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Overview.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.Pos_Transaction_History_Records.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.Pos_Void_Transaction.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Dashboard.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.InventoryManagement.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Point_of_Sale.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Checkout.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.Pos_Customer_Info.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Transaction_History.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Receipt_Phosclay.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Receipt_Fragranza.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.SalesReport.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Properties.Resources.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.UpdateRawMaterials.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Settings.resources
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.GenerateResource.cache
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.exe
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.pdb
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\bin\Debug\Phosclay.exe.manifest
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\bin\Debug\Phosclay.application
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.exe.manifest
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.application
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\Documents\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.CopyComplete
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\bin\Debug\Phosclay.exe.config
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\bin\Debug\Phosclay.exe.manifest
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\bin\Debug\Phosclay.application
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\bin\Debug\Phosclay.exe
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\bin\Debug\Phosclay.pdb
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\bin\Debug\MessageBird.dll
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.AssemblyReference.cache
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.SuggestedBindingRedirects.cache
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Changepassword.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Connection.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.AddSettings.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Administrator.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.SystemLogs.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.AddProduct.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.AddRawMaterials.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.PrintMaterial.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.PrintProducts.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.UpdateProduct.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.ViewProducts.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.ViewRawMaterials.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Login.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Overview.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.Pos_Transaction_History_Records.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.Pos_Void_Transaction.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Dashboard.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.InventoryManagement.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Point_of_Sale.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Checkout.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.Pos_Customer_Info.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Transaction_History.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Receipt_Phosclay.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Receipt_Fragranza.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.SalesReport.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Properties.Resources.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.UpdateRawMaterials.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.Settings.resources
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.GenerateResource.cache
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.CoreCompileInputs.cache
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.exe.manifest
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.application
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.CopyComplete
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.exe
+C:\Users\Raf\Desktop\ojt\Phosclay\Phosclay\obj\Debug\Phosclay.pdb
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\bin\Debug\Phosclay.exe.config
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\bin\Debug\Phosclay.exe.manifest
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\bin\Debug\Phosclay.application
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\bin\Debug\Phosclay.exe
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\bin\Debug\Phosclay.pdb
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\bin\Debug\MessageBird.dll
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\bin\Debug\Zstandard.Net.dll
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\bin\Debug\System.Buffers.dll
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\bin\Debug\System.Memory.dll
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.csprojAssemblyReference.cache
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.exe.config
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Changepassword.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Connection.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.AddSettings.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Administrator.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.SystemLogs.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.AddProduct.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.AddRawMaterials.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.PrintMaterial.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.PrintProducts.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.UpdateProduct.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.ViewProducts.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.ViewRawMaterials.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Login.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Overview.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.Pos_Transaction_History_Records.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.Pos_Void_Transaction.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Dashboard.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.InventoryManagement.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Point_of_Sale.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Checkout.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.Pos_Customer_Info.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Transaction_History.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Receipt_Phosclay.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Receipt_Fragranza.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.SalesReport.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Properties.Resources.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.UpdateRawMaterials.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Settings.resources
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.GenerateResource.cache
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.exe.manifest
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.application
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.CopyComplete
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.exe
+C:\Users\asus\Documents\OJT\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.pdb
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\bin\Debug\Phosclay.exe.config
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\bin\Debug\Phosclay.exe.manifest
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\bin\Debug\Phosclay.application
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\bin\Debug\Phosclay.exe
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\bin\Debug\Phosclay.pdb
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\bin\Debug\MessageBird.dll
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.SuggestedBindingRedirects.cache
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Changepassword.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Connection.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.AddSettings.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Administrator.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.SystemLogs.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.AddProduct.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.AddRawMaterials.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.PrintMaterial.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.PrintProducts.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.UpdateProduct.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.ViewProducts.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.ViewRawMaterials.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Login.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Overview.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.Pos_Transaction_History_Records.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.Pos_Void_Transaction.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Dashboard.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.InventoryManagement.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Point_of_Sale.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Checkout.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.Pos_Customer_Info.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Transaction_History.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Receipt_Phosclay.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Receipt_Fragranza.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.SalesReport.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Properties.Resources.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.UpdateRawMaterials.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Settings.resources
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.GenerateResource.cache
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.CoreCompileInputs.cache
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.exe.manifest
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.application
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.CopyComplete
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.exe
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.pdb
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.AssemblyReference.cache
+C:\Users\havan\Desktop\OJT2022\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.PasswordCheck.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\bin\Debug\Phosclay.exe.config
+C:\Users\Raf\Desktop\Phosclay\Phosclay\bin\Debug\Phosclay.exe.manifest
+C:\Users\Raf\Desktop\Phosclay\Phosclay\bin\Debug\Phosclay.application
+C:\Users\Raf\Desktop\Phosclay\Phosclay\bin\Debug\Phosclay.exe
+C:\Users\Raf\Desktop\Phosclay\Phosclay\bin\Debug\Phosclay.pdb
+C:\Users\Raf\Desktop\Phosclay\Phosclay\bin\Debug\MessageBird.dll
+C:\Users\Raf\Desktop\Phosclay\Phosclay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Raf\Desktop\Phosclay\Phosclay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.SuggestedBindingRedirects.cache
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Changepassword.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Connection.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.PasswordCheck.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.AddSettings.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Administrator.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.SystemLogs.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.AddProduct.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.AddRawMaterials.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.PrintMaterial.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.PrintProducts.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.UpdateProduct.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.ViewProducts.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.ViewRawMaterials.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Login.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Overview.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.Pos_Transaction_History_Records.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.Pos_Void_Transaction.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Dashboard.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.InventoryManagement.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Point_of_Sale.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Checkout.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.Pos_Customer_Info.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Transaction_History.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Receipt_Phosclay.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Receipt_Fragranza.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.SalesReport.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Properties.Resources.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.UpdateRawMaterials.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Settings.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.GenerateResource.cache
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.CoreCompileInputs.cache
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.exe.manifest
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.application
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.CopyComplete
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.exe
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.pdb
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.Pos_Manage_Void.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.AssemblyReference.cache
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Manage_Shipping.resources
+C:\Users\Raf\Desktop\Phosclay\Phosclay\obj\Debug\Phosclay.Shipping_Records.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\bin\Debug\Phosclay.exe.config
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\bin\Debug\Phosclay.exe.manifest
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\bin\Debug\Phosclay.application
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\bin\Debug\Phosclay.exe
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\bin\Debug\Phosclay.pdb
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\bin\Debug\MessageBird.dll
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.AssemblyReference.cache
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.SuggestedBindingRedirects.cache
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Changepassword.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Connection.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Manage_Shipping.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.PasswordCheck.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.Pos_Manage_Void.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.AddSettings.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.AccountManagement.AddAccount.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.AccountManagement.UpdateAccount.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.AccountManagement.ManageAccount.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Administrator.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Administration_Related.SystemLogs.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.AddProduct.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.AddRawMaterials.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.PrintMaterial.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.PrintProducts.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.UpdateProduct.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Inventory_Related.ViewProducts.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.ViewRawMaterials.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Login.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Overview.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.Pos_Transaction_History_Records.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.Pos_Void_Transaction.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Dashboard.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.InventoryManagement.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Point_of_Sale.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Checkout.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Related.Pos_Customer_Info.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Transaction_History.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Receipt_Phosclay.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Pos_Receipt_Fragranza.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.SalesReport.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Properties.Resources.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.UpdateRawMaterials.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Settings.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.Shipping_Records.resources
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.GenerateResource.cache
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.CoreCompileInputs.cache
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.exe.manifest
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.application
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.csproj.CopyComplete
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.exe
+C:\Users\havan\Desktop\Phosclay\Phosclay\Phosclay\obj\Debug\Phosclay.pdb

@@ -1,0 +1,5 @@
+Manage Products - ViewProducts
+Manage R. Material - ViewRawMaterials
+Product Report - ProductsReport
+RM Report - RawMaterialsReport
+Transaction History - Pos_Transaction_History

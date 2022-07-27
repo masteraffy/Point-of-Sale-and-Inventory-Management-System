@@ -1,0 +1,463 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C9611540-0DE1-4EBA-BF09-021E75BBA7C8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Phosclay</RootNamespace>
+    <AssemblyName>Phosclay</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\havan\Desktop\Installer\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>28</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Phosclay.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>82609C33B44813417D9A53BCCF6F0F2B21C2F3F5</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Phosclay_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>D:\Backup For Reformat\AU doc\UI for VS\Bunifu_UI_v1.52\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>C:\Users\havangaz\Downloads\Compressed\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI WinForms\.net 4.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\..\..\..\..\..\..\..\..\..\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="MessageBird, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MessageBird.3.1.0\lib\net40\MessageBird.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MySql.Data, Version=8.0.26.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Changepassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Changepassword.Designer.cs">
+      <DependentUpon>Changepassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Connection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Connection.Designer.cs">
+      <DependentUpon>Connection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="controls.cs" />
+    <Compile Include="MainConnection.cs" />
+    <Compile Include="Administration Related\Manage_Shipping.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administration Related\Manage_Shipping.Designer.cs">
+      <DependentUpon>Manage_Shipping.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pos Related\PasswordCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pos Related\PasswordCheck.Designer.cs">
+      <DependentUpon>PasswordCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pos Related\Pos_Manage_Void.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pos Related\Pos_Manage_Void.Designer.cs">
+      <DependentUpon>Pos_Manage_Void.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\AddSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\AddSettings.Designer.cs">
+      <DependentUpon>AddSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administration Related\AccountManagement\AddAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administration Related\AccountManagement\AddAccount.Designer.cs">
+      <DependentUpon>AddAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administration Related\AccountManagement\UpdateAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administration Related\AccountManagement\UpdateAccount.Designer.cs">
+      <DependentUpon>UpdateAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administration Related\AccountManagement\ManageAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administration Related\AccountManagement\ManageAccount.Designer.cs">
+      <DependentUpon>ManageAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DGVPrinter.cs" />
+    <Compile Include="Inventory Related\AddRawMaterials.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory Related\AddRawMaterials.Designer.cs">
+      <DependentUpon>AddRawMaterials.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administration Related\Administrator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administration Related\Administrator.Designer.cs">
+      <DependentUpon>Administrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administration Related\SystemLogs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administration Related\SystemLogs.Designer.cs">
+      <DependentUpon>SystemLogs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory Related\AddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory Related\AddProduct.Designer.cs">
+      <DependentUpon>AddProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory Related\PrintMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory Related\PrintMaterial.Designer.cs">
+      <DependentUpon>PrintMaterial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory Related\PrintProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory Related\PrintProducts.Designer.cs">
+      <DependentUpon>PrintProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory Related\UpdateProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory Related\UpdateProduct.Designer.cs">
+      <DependentUpon>UpdateProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory Related\ViewProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory Related\ViewProducts.Designer.cs">
+      <DependentUpon>ViewProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginRelated\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginRelated\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Overview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Overview.Designer.cs">
+      <DependentUpon>Overview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pos Related\Pos_Transaction_History_Records.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pos Related\Pos_Transaction_History_Records.Designer.cs">
+      <DependentUpon>Pos_Transaction_History_Records.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pos Related\Pos_Void_Transaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pos Related\Pos_Void_Transaction.Designer.cs">
+      <DependentUpon>Pos_Void_Transaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory Related\InventoryManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory Related\InventoryManagement.Designer.cs">
+      <DependentUpon>InventoryManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pos Related\Point_of_Sale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pos Related\Point_of_Sale.Designer.cs">
+      <DependentUpon>Point_of_Sale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pos Related\Pos_Checkout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pos Related\Pos_Checkout.Designer.cs">
+      <DependentUpon>Pos_Checkout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pos Related\Pos_Customer_Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pos Related\Pos_Customer_Info.Designer.cs">
+      <DependentUpon>Pos_Customer_Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pos Related\Pos_Transaction_History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pos Related\Pos_Transaction_History.Designer.cs">
+      <DependentUpon>Pos_Transaction_History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pos Related\Pos_Receipt_Phosclay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pos Related\Pos_Receipt_Phosclay.Designer.cs">
+      <DependentUpon>Pos_Receipt_Phosclay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pos Related\Pos_Receipt_Fragranza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pos Related\Pos_Receipt_Fragranza.Designer.cs">
+      <DependentUpon>Pos_Receipt_Fragranza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalesReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalesReport.Designer.cs">
+      <DependentUpon>SalesReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Inventory Related\ViewRawMaterials.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory Related\ViewRawMaterials.Designer.cs">
+      <DependentUpon>ViewRawMaterials.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory Related\UpdateRawMaterials.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory Related\UpdateRawMaterials.Designer.cs">
+      <DependentUpon>UpdateRawMaterials.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\Settings.Designer.cs">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administration Related\Shipping_Records.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administration Related\Shipping_Records.Designer.cs">
+      <DependentUpon>Shipping_Records.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Changepassword.resx">
+      <DependentUpon>Changepassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Connection.resx">
+      <DependentUpon>Connection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration Related\Manage_Shipping.resx">
+      <DependentUpon>Manage_Shipping.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pos Related\PasswordCheck.resx">
+      <DependentUpon>PasswordCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pos Related\Pos_Manage_Void.resx">
+      <DependentUpon>Pos_Manage_Void.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\AddSettings.resx">
+      <DependentUpon>AddSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration Related\AccountManagement\AddAccount.resx">
+      <DependentUpon>AddAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration Related\AccountManagement\UpdateAccount.resx">
+      <DependentUpon>UpdateAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration Related\AccountManagement\ManageAccount.resx">
+      <DependentUpon>ManageAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration Related\Administrator.resx">
+      <DependentUpon>Administrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration Related\SystemLogs.resx">
+      <DependentUpon>SystemLogs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory Related\AddProduct.resx">
+      <DependentUpon>AddProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory Related\AddRawMaterials.resx">
+      <DependentUpon>AddRawMaterials.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory Related\PrintMaterial.resx">
+      <DependentUpon>PrintMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory Related\PrintProducts.resx">
+      <DependentUpon>PrintProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory Related\UpdateProduct.resx">
+      <DependentUpon>UpdateProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory Related\ViewProducts.resx">
+      <DependentUpon>ViewProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory Related\ViewRawMaterials.resx">
+      <DependentUpon>ViewRawMaterials.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginRelated\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Overview.resx">
+      <DependentUpon>Overview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pos Related\Pos_Transaction_History_Records.resx">
+      <DependentUpon>Pos_Transaction_History_Records.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pos Related\Pos_Void_Transaction.resx">
+      <DependentUpon>Pos_Void_Transaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory Related\InventoryManagement.resx">
+      <DependentUpon>InventoryManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pos Related\Point_of_Sale.resx">
+      <DependentUpon>Point_of_Sale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pos Related\Pos_Checkout.resx">
+      <DependentUpon>Pos_Checkout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pos Related\Pos_Customer_Info.resx">
+      <DependentUpon>Pos_Customer_Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pos Related\Pos_Transaction_History.resx">
+      <DependentUpon>Pos_Transaction_History.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pos Related\Pos_Receipt_Phosclay.resx">
+      <DependentUpon>Pos_Receipt_Phosclay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pos Related\Pos_Receipt_Fragranza.resx">
+      <DependentUpon>Pos_Receipt_Fragranza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalesReport.resx">
+      <DependentUpon>SalesReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Inventory Related\UpdateRawMaterials.resx">
+      <DependentUpon>UpdateRawMaterials.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\Settings.resx">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration Related\Shipping_Records.resx">
+      <DependentUpon>Shipping_Records.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Phosclay_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Phosclay.ico" />
+    <Content Include="warning.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
